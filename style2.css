@@ -136,17 +136,3 @@ a:visited{
 	outline: none;
 	border-radius: 30px;
 }
-@media screen and (max-width: 505px){
-    .form-box{
-     width: 80%;
-	height: 85%;  
-        
-    }
-    .input-group{
-     width: 60%;
-     top: 40%;
-    }
-    .button-box{
-    
-    }
-}
